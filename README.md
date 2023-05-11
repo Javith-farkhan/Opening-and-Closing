@@ -67,11 +67,19 @@ plt.axis('off')
 ## OUTPUT:
 
 ### Input Image
-![](output1.png)
+
+![Di11 1](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/02c7cbc5-9220-43c7-bd04-936c25214bb8)
+
 
 ### Result of Opening
-![](output2.png)
+
+![Di11 2](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/c7d15346-434f-4094-a436-cd2d203c20c3)
+
+
 ### Result of Closing
-![](output3.png)
+
+![Di11 3](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/5b52e5ef-93a1-4342-b888-9fd5851f93d1)
+
+
 ## RESULT:
 Thus, the Opening and Closing operation is used in the image using python and OpenCV.
